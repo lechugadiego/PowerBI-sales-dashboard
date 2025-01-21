@@ -14,7 +14,7 @@ Automated dashboard providing quick and latest sales insights to support data-dr
 ### Data Analysis with SQL
 Initial analysis of sales data using SQL queries to understand the dataset structure and key metrics.
 
-### Data Cleaning & ETL (Extract Transform Load)
+### Data Cleaning & ETL (Extract Transform Load) with Power BI
 - Utilized Power BI for data cleaning
 - Performed data transformation using Power BI transform tools:
   - Removed blank rows
