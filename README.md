@@ -17,7 +17,7 @@ Automated dashboard providing quick and latest sales insights to support data-dr
 
 ## Phase 1
 ### Data Analysis with SQL
-Initial analysis of sales data using SQL queries to understand the dataset structure and key metrics.
+Initial analysis of sales data using SQL queries on MySQL to understand the dataset structure and key metrics.
 
 ### Data Cleaning & ETL (Extract Transform Load) with Power BI
 - Utilized Power BI for data cleaning
