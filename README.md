@@ -39,6 +39,6 @@ Created an interactive Power BI dashboard featuring:
 - Revenue trend monitoring
 
 ### Dashboard Preview
-Link to the dashboard below. The web version might have some permission issues but you can try signing in with your Microsoft account. If it doesn't work feel free to download sales_dashboard.pbix in the repo, or watch the video demonstration :)   
+Link to the dashboard below. The web version might have some permission issues but you can try signing in with your Microsoft account. If it doesn't work feel free to download "sales_dashboard.pbix" in the repo, or watch the video demonstration :)   
 https://app.powerbi.com/groups/me/reports/0339065a-0d2d-4c41-bbcb-67992d310857/d5acb94c0200276b759c?experience=power-bi
 
