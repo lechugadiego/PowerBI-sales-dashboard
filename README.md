@@ -3,6 +3,11 @@
 ### Project Overview
 This project simulates a corporate environment where we analyze SQL sales data from another department to create an interactive dashboard.
 
+
+## Video Demonstration (sound on)
+https://github.com/user-attachments/assets/99c10670-b09e-4514-b122-4a8113a7f4ba
+
+
 ### End Result
 Automated dashboard providing quick and latest sales insights to support data-driven decision making.
 
