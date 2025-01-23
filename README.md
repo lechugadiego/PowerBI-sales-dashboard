@@ -1,7 +1,7 @@
 # Data Analysis using SQL and Power BI
 
 ### Project Overview
-This project simulates a corporate environment where we analyze SQL sales data from another department to create an interactive dashboard.
+This project simulates a corporate environment where we analyze SQL sales data from another department to create an interactive dashboard using Power BI.
 
 
 ## Video Demonstration (sound on)
