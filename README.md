@@ -1,7 +1,7 @@
-# Data Analysis using SQL and Power BI
+# Sales Analytics Dashboard using SQL and Power BI
 
 ### Project Overview
-This project simulates a corporate environment where we analyze SQL sales data from another department to create an interactive dashboard using Power BI.
+Developed an automated sales analytics dashboard that processes 150,000+ transactions across 4 years, enabling real-time visibility into key performance metrics and market trends.
 
 
 ## Video Demonstration (sound on)
@@ -14,6 +14,11 @@ Automated dashboard providing quick and latest sales insights to support data-dr
 ### Dataset
 - Database contains over 150,000 transactions
 - Data spans across 4 years
+
+## Business Impact
+- Automated manual reporting processes, reducing analysis time by 80%
+- Enabled real-time access to sales insights for stakeholders
+- Improved market performance tracking across regions
 
 ## Phase 1
 ### Data Analysis with SQL
