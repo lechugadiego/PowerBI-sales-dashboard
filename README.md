@@ -7,14 +7,6 @@ Developed an automated sales analytics dashboard that processes 150,000+ transac
 ## Video Demonstration (sound on)
 https://github.com/user-attachments/assets/99c10670-b09e-4514-b122-4a8113a7f4ba
 
-
-### End Result
-Automated dashboard providing quick and latest sales insights to support data-driven decision making.
-
-### Dataset
-- Database contains over 150,000 transactions
-- Data spans across 4 years
-
 ## Business Impact
 - Automated manual reporting processes, reducing analysis time by 80%
 - Enabled real-time access to sales insights for stakeholders
@@ -42,6 +34,12 @@ Created an interactive Power BI dashboard featuring:
 - Top 5 customers visualization
 - Top 5 products analysis
 - Revenue trend monitoring
+
+# Setup & Installation
+1. Download and install Power BI Desktop
+2. Clone this repository or download sales_dashboard.pbix
+3. Open sales_dashboard.pbix in Power BI Desktop
+4. Optional: For live data connection, update database credentials in Power BI settings
 
 ### Dashboard Preview
 Link to the dashboard below. The web version might have some permission issues but you can try signing in with your Microsoft account. If it doesn't work feel free to download "sales_dashboard.pbix" in the repo, or watch the video demonstration :)   
